@@ -1,5 +1,6 @@
 ---
 title: Hello World
+date: 2018-09-27 21:00:00
 ---
 **Hello World!** If you've done any programming, this sentence is all too familliar to you :). I'm Kasey, and this is the latest of my attempts to start a blog. I started a few along the years, but I keep on forgetting to add to it after the first post. Hopefully this time around, it takes a different turn and I end up posting regularly!
 
