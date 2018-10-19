@@ -1,38 +1,9 @@
 ---
 title: Hello World
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+**Hello World!** If you've done any programming, this sentence is all too familliar to you :). I'm Kasey, and this is the latest of my attempts to start a blog. I started a few along the years, but I keep on forgetting to add to it after the first post. Hopefully this time around, it takes a different turn and I end up posting regularly!
 
-## Quick Start
+## What will this blog be about?
 
-### Create a new post
+Well, this blog is going to be about a _LOT_ of stuff! I am thinking mainly about _Computer Science_ topics, but I'll also do posts about life, health, travel, and a lot of meaningful stuff! I'll be spending quality time writing these blogs to hopefully provide good insight to my readers :)
 
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
