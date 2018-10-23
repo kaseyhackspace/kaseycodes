@@ -1,7 +1,12 @@
 ---
 title: Black screen after installing Nvidia drivers on Ubuntu 18.04 fix
 date: 2018-10-13 22:26:34
-tags: nvidia drivers ubuntu 18.04 grub
+tags: 
+    - nvidia
+    - drivers
+    - ubuntu
+    - '18.04'
+    - grub
 ---
 
 I recently needed to reinstall Nvidia drivers as I performed a clean format to Ubuntu 18.04 after horribly crippling my system due to a failed `apt-get dist-upgrade`. Since I didn't have the time to be checking what the best driver version was for my graphics card, I went ahead and installed the drivers using the `sudo ubuntu-drivers autoinstall` command. Everything seemed ok, until I rebooted the system and was greeted with a black screen, and an unresponsive system.
