@@ -7,7 +7,7 @@ tags:
     - gcc
     - compiler
 ---
-Last week we conducted a basic C Programming workshop at Saint Louis University, Baguio! It was a cool experience, and I really wanted to make sure that the students really understood the concepts we taught. After the session, we promised them that we would upload all the demo code we made for them to study and practise on :)
+Last week we conducted a basic C Programming workshop in collaboration with [Mechatronics SLU](https://www.facebook.com/MechatronicsSLU) at Saint Louis University, Baguio! It was a cool experience, and I really wanted to make sure that the students really understood the concepts we taught. After the session, we promised them that we would upload all the demo code we made for them to study and practise on :)
 
 Here's the main repository:
 https://github.com/kaseyhackspace/c_demo
