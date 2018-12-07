@@ -9,7 +9,7 @@ tags:
     - docker-compose
 ---
 
-I've always been a `Python` guy and I've been putting off learning `Node.js` for so long, and I didn't even know the fundamentals of `Node.js`. Part of the reason was I couldn't get it off my head that `javascript` was primarily used for client side browser scripting. But the thing is, `Node.js` enabled `javascript` to run on the server-side. But what really reeled me in is the `Node.js` was built using Chrome's V8 Javascript engine, which makes it really, really, fast. I love fast programs, and if you've known me in college, I was obsessed with making my programs fast and efficient. Hence my love for `C`, `C++`, assembly languages, parallel, distributed and GPU computing :)
+I've always been a `Python` guy and I've been putting off learning `Node.js` for so long. I didn't even know the fundamentals of `Node.js`. Part of the reason was I couldn't get it off my head that `javascript` was primarily used for client side browser scripting. But the thing is, `Node.js` enabled `javascript` to run on the server-side. But what really reeled me in is that `Node.js` was built using Chrome's V8 Javascript engine, which makes it really, really, fast. I love fast programs, and if you've known me in college, I was obsessed with making my programs fast and efficient. Hence my love for `C`, `C++`, assembly languages, parallel, distributed and GPU computing :)
 
 My first opensource project in `Node.js` will be `Compozen`! What is `Compozen`? `Compozen` will be a CLI tool for generating and managing `docker-compose` YAML files! These files are used by `docker-compose` a tool used `Docker` to spin up of micro-services that work together in order to make modern applications using Docker work. 
 
