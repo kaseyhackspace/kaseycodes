@@ -5,6 +5,7 @@ tags:
     - marcus aurelius
     - stoicism
     - stoic
+    - directing mind
 ---
 > Whatever it is, this being of mine is made up of flesh, breath, and directing mind. Now the flesh you should disdain - blood, bones, a mere fabric and network of nerves, veins, and arteries. Consider too what breath is: wind - and not even a constant, but all the time being disgorged and sucked in again. That leaves the third part, the directing mind. Quit your books - no more hankering: this is not your gift. No, think like this, as if you were on the point of death: "you are old; don't then let this directing mind of yours be enslaved any longer - no more jerking to the strings of selfish impulse, no more disquiet at your present or suspicion of your future fate."
 > -- <cite>Marcus Aurelius</cite>
