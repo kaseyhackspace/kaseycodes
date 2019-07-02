@@ -7,6 +7,7 @@ tags:
     - stoic
     - time
     - procastination
+    - productivity
 ---
 > Remember how long you have been putting this off, how many times you have been given a period of grace by the gods and not used it. It is high time now that you understand the universe of which you are a part, and the governor of that universe of whom you constitute an emanation: and that there is a limit circumscribed to your time - if you do not use it to clear away your clouds, it will be gone, and you will be gone, and the opportunity will not return.   
 > -- <cite>Marcus Aurelius</cite>
